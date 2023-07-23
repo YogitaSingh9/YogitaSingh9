@@ -1,5 +1,6 @@
-### Hi there 👋
-<img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
+<h1>Hi there 👋</h1>
+<h2></h2>
+<img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right' >
 <!--
 **YogitaSingh9/YogitaSingh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
