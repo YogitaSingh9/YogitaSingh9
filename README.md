@@ -9,6 +9,7 @@
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='center'>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YogitaSingh9&show_icons=true&theme=radical"/>
 <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogitaSingh9&hide_progress=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YogitaSingh9"/></a>
 
 <!--
 **YogitaSingh9/YogitaSingh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
