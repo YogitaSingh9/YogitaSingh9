@@ -1,4 +1,4 @@
-<img src='./github-header-image.png'>
+<img src='./github-header-image(1).png'>
 <h1>Hi there 👋</h1>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
 <li>-🔭 I’m currently working on web devlopment
