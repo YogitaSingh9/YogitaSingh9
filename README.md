@@ -36,8 +36,10 @@
 
 <h2>Design Work </h2>
 <a href="https://www.behance.net/yogitasingh9"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://dribbble.com/Yogita_Singh9"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-<a href="https://www.behance.net/gallery/153115149/Delhi-metro-app-UX-case-study"><img src="
+<a href="https://dribbble.com/Yogita_Singh9"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a><br><br>
+<a href="https://www.behance.net/gallery/153115149/Delhi-metro-app-UX-case-study"><img src="./DMRC UIUX CASE STUDY.png" height="250px" width="400px" align="left"></a>
+<a href="https://www.behance.net/gallery/145571987/LANDING-PAGE"><img src="./LANDING PAGE.png" height="250px" width=400px align ="left" margin-left="100px"></a><br>
+<a href="https://www.behance.net/yogitasingh9">Watch more Projects on my Behance account ✨ </a>
 <!--
 **YogitaSingh9/YogitaSingh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
