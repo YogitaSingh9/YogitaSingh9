@@ -3,10 +3,11 @@
 <li>- 🌱 I’m currently learning react and machine learning</li>
 <li>- 👯 I’m looking to collaborate on Machine learning projects</li>
 <li>- 💬 Ask me about frontend web development</li>
-<li>- 📫 How to reach me:</li>
+<li>- 📫 How to reach me:Yogitasingh14092@gmail.com</li>
 <li>- 😄 Pronouns:she\her</li>
-<li>- ⚡ Fun fact: ...</li>
+<li>- ⚡ Fun fact: I design, and then code </li>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='center'>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YogitaSingh9&show_icons=true&theme=radical"/>
 <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogitaSingh9&hide_progress=true" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YogitaSingh9"/></a>
