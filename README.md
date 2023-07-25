@@ -1,5 +1,6 @@
 <a href="#"><img src="./github-header-image.png"></a>
 <h1>Hi there 👋</h1>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=YogitaSingh9&color=blueviolet"></a>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
 <p>-🔭 I’m currently working on web devlopment</p></a>
 <p>- 🌱 I’m currently learning react and machine learning </p></a>
