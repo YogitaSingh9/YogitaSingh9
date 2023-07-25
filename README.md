@@ -10,10 +10,14 @@
 <h2>Github Statistics</h2>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YogitaSingh9&show_icons=true&theme=radical">
  <a href="#"><img height=195 align="center" padding="100" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogitaSingh9&hide_progress=true" /></a><br>
- <h2>Languages</h2><br>
+ <h2>Tools</h2><br>
  <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
  <a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
- <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><br>
+ <h2>Languages</h2>
+ <a href="#"><img src="
+ <a href="#"><img src="
+<a href="#"><img src="
 <h2>Github Streak</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YogitaSingh9"/></a>
 
