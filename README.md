@@ -7,7 +7,7 @@
 <p>- 💬 Ask me about frontend web development</p></a>
 <p>- 📫 How to reach me: <button> <a href="mailto: yogitasingh14092@gmail.com">Send email</a></button></p>
 <p>- 😄 Pronouns:she\her</p></a>
-<p>- ⚡ Fun fact: I design, and then code </p></a><br>
+<p>- ⚡ Fun fact: <b>I can do both design and code</b></p></a><br>
 <h2>Github Statistics</h2>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YogitaSingh9&show_icons=true&theme=radical">
  <a href="#"><img height=195 align="center" padding="100" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogitaSingh9&hide_progress=true" /></a><br>
