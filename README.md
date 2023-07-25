@@ -1,8 +1,9 @@
+
 <h1>Hi there 👋</h1>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
 <p>-🔭 I’m currently working on web devlopment</p></a>
-<p>- 🌱 I’m currently learning react and machine learning</p></a>
-<p>- 👯 I’m looking to collaborate on Machine learning projects</p></a>
+<p>- 🌱 I’m currently learning react and machine learning </p></a>
+<p>- 👯 I’m looking to collaborate on open source projects</p></a>
 <p>- 💬 Ask me about frontend web development</p></a>
 <p>- 📫 How to reach me: <button> <a href="mailto: yogitasingh14092@gmail.com">Send email</a></button></p>
 <p>- 😄 Pronouns:she\her</p></a>
