@@ -1,12 +1,12 @@
 <h1>Hi there 👋</h1>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
-<a href ="#"><p>🔭 I’m currently working on web devlopment</p></a>
-<a href ="#"><p>- 🌱 I’m currently learning react and machine learning</p></a>
-<a href ="#"><p>- 👯 I’m looking to collaborate on Machine learning projects</p></a>
-<a href ="#"><p>- 💬 Ask me about frontend web development</p></a>
+<p>-🔭 I’m currently working on web devlopment</p></a>
+<p>- 🌱 I’m currently learning react and machine learning</p></a>
+<p>- 👯 I’m looking to collaborate on Machine learning projects</p></a>
+<p>- 💬 Ask me about frontend web development</p></a>
 <p>- 📫 How to reach me: <button> <a href="mailto: yogitasingh14092@gmail.com">Send email</a></button></p>
-<a href ="#"-><p>- 😄 Pronouns:she\her</p></a>
-<a href ="#"-><p>- ⚡ Fun fact: I design, and then code </p></a><br>
+<p>- 😄 Pronouns:she\her</p></a>
+<p>- ⚡ Fun fact: I design, and then code </p></a><br>
 <h2>Github Statistics</h2>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YogitaSingh9&show_icons=true&theme=radical">
  <a href="#"><img height=195 align="center" padding="100" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogitaSingh9&hide_progress=true" /></a><br>
