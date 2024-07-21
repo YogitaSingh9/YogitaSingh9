@@ -1,5 +1,5 @@
 <a href="#"><img src="https://www.canva.com/design/DAF10-_jWrk/YcGyB0dbyb660FlQf_PL3g/view?utm_content=DAF10-_jWrk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"></a>
-<h1>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=YogitaSingh9&color=blueviolet"></a>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
 <p>-🔭 I’m currently working on web devlopment</p></a>
