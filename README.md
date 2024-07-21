@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Yogita%20Singh%20💖&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hi%20there%20👋&text2=I'm,%20Yogita%20%20Singh&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi there 👋</h1>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=YogitaSingh9&color=blueviolet"></a>
 <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' align='right'>
